@@ -1,0 +1,5 @@
+{
+  "name": "CodeOrigin AI",
+  "description": "A powerful tool to analyze code snippets, detect the programming language, and determine the probability of AI generation versus human authorship.",
+  "requestFramePermissions": []
+}
